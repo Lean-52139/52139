@@ -56,13 +56,8 @@ El Arbol lo mostrara al ejecutar la gramatica (metadata.g4) con F5.
 ## ▶️ Uso de ejemplos
 
 Puedes ejecutar cualquier archivo de ejemplo directamente desde la terminal usando:
-
-## ▶️ Uso de ejemplos
-
-Puedes ejecutar cualquier archivo de ejemplo directamente desde la terminal usando:
-
-```sh
-npm start [correcto1.txt](http://_vscodecontentref_/1)
+   ```sh
+   npm start [correcto1.txt](http://_vscodecontentref_/1)
 
 o para otro ejemplo:
 
