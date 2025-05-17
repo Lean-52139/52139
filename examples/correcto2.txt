@@ -1,0 +1,8 @@
+nombre:informe_final.docx;
+tipo:docx;
+tamano:204800;
+creado:2024-12-15 08:45;
+modificado:2025-01-10 09:00;
+autor:Juan Pérez;
+descripcion:Informe final del proyecto.;
+etiquetas:[informe, proyecto, final];
