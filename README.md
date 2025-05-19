@@ -57,11 +57,11 @@ El Arbol lo mostrara al ejecutar la gramatica (metadata.g4) con F5.
 
 Puedes ejecutar cualquier archivo de ejemplo directamente desde la terminal usando:
    ```sh
-   npm start [correcto1.txt](http://_vscodecontentref_/1)
+   npm start [correcto1.txt]
 
 o para otro ejemplo:
 
-npm start [incorrecto2.txt](http://_vscodecontentref_/2)
+npm start [incorrecto2.txt]
 
 ## Requisitos para que funcione este comando
 ## Node.js instalado.
